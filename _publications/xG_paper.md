@@ -1,8 +1,8 @@
 ---
-title: "Leveraging Classification Models to Understand Football Players' and Teams' Characteristics"
+title: "Leveraging Classification Models to Understand Football Players and Teams Characteristics"
 collection: publications
 permalink: /publication/xG_paper
-excerpt: 'This paper is about leveraging Classification Models to Understand Football Players' and Teams' Characteristics.'
+excerpt: 'This paper is about leveraging Classification Models in the computation of Expected Goals or xG to understand Understand Football Players and Teams Characteristics'
 date: 2023-07-06  
 venue: 'Research Square'
 paperurl: 'https://doi.org/10.21203/rs.3.rs-3172454/v1'
