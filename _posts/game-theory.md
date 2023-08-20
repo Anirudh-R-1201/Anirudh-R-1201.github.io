@@ -1,7 +1,7 @@
 ---
 title: 'Among Us: A game theory analysis'
 date: 2020-09-20
-permalink: /posts/2020/09/20/game-theory/
+permalink: /posts/2020/09/game-theory/
 tags:
   - Game Theory
   - Among Us mobile game
