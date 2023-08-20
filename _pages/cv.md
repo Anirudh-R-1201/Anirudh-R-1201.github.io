@@ -34,12 +34,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+  * Natural Language Processing
+* Data Analysis
+* Cloud Infrastructure 
+  * Terraform
+  * Kubernetes
+  * Docker
+* Blockchain
+  * Ethereum 
+* General Programming 
+  * Java
+  * Python
+  * Android
+  * Flutter/DART
+  * CUDA (for Parallel Processing)
 
 Publications
 ======
