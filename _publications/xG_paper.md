@@ -1,5 +1,5 @@
 ---
-title: "Leveraging Classification Models for Expected Goals"
+title: "Leveraging Classification Models to Understand Football Players and Teams Characteristics"
 collection: publications
 permalink: /publication/xG_paper
 excerpt: 'This Research Article looks into imporved methodologies in leveraging Classification Models in the computation of Expected Goals (or xG) to understand Football Players and Teams Characteristics'
