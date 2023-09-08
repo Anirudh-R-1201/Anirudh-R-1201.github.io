@@ -11,27 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.Tech in in Computer Science and Engineering, National Institute of Technology, Tiruchirappalli, 2018-2022
+* B.Tech National Institute of Technology, Tiruchirappalli, 2018-2022 
+  * Majored in Computer Science and Engineering.
+  * Minor in Management Science.
+  * CGPA : 9.08
+  * Courses excelled in include: Data Sciences, Machine Learning, Advanced Cryptography, Data Warehousing & Data Mining, and Web Technology.
 
 Work experience
 ======
 * June 2022 - Present : Member of Technical Staff 
   * Oracle Cloud AI Service - Language
-  * In charge of Cloud AI Language Service across 86 regions, ensuring high availability, low maintenance and minimal failures.
-  * Led ARM architecture migration of all micro-services and reduced running costs by 33\% as part of the Optimization Program
-  * Contributed to the development of the Punctuator micro-service.
+  * An active member of Continuous Development and Deployment of Cloud AI Language Service across 86 regions.
+  * In charge of Operations ensuring high availability, low maintenance and minimal failures.
+  * Maintaining and updating the internal testing tools of the various services. 
+  * Led ARM architecture migration of all micro-services and reduced running costs by 33\% as part of the Optimization Program.
+  * Contributed to the Punctuator micro-service.
 
 * June 2021 - August 2021 : Software Development Intern
   * Oracle Digital Assistant
-  * Migration to light-weight multi-platform compatible Digital Assistant Module that is compatible to be added onto existing Android and iOS mobile applications.
+  * Handled the migration of the Digital Assistant to light-weight multi-platform compatible module that is compatible to be added onto existing Android and iOS mobile applications as well as web interface.
+  * This eliminated the requirement of multiple platform specific applications being maintained and developed.  
 
 * June 2020 – October 2020 : NLP Intern 
   * Crayondata
-  * Worked on unsupervised Keyphrase extraction model for Online Customer Reviews using BERT-based transformers models.
+  * Worked on unsupervised Keyphrase extraction model for Online Customer Reviews.
+  * Leveraged an ensemble of node2vec graph based binomal & trinomal ranking model alongside BERT-based model to extract key information from user submitted information and reviews of products and services.
 
 * December 2019 – January 2020  : Research Intern
   * IIT MADRAS, RISE LABS
   * Worked on modifying the existing monolithic 256bits Substitution Box to a scalable S.Box with three flavours (256, 196 and 128bits) to provide greater efficiency for performing low compute encryption/decryption within India’s first homogeneous microprocessor, Shakti.
+  * This enabled scalability of the encryption leading to higher efficiency of the microprocessor, allowing the SBox to scale down in complexity exponentially when performing smaller tasks. 
 
 * June 2021 - May 2022 : Technical Secretary
   * Students' Council, NIT Tiruchirappalli  
