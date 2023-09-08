@@ -12,7 +12,7 @@ I am a B.Tech graduate from National Institute of Technology Tiruchirappalli maj
 
 Timeline
 ------
-*August 2023* Wrote Research Article on Football performance evaluation using Classification Models. //
+*August 2023* Wrote Research Article on Football performance evaluation using Classification Models.
 
 *June 2022* Joined Oracle as Member Technical Staff of Cloud AI Services Team.
 
