@@ -2,7 +2,7 @@
 title: "Football performance evaluation using Classification Models"
 collection: publications
 permalink: /publication/xG_paper
-excerpt: 'This Research Article looks into imporved methodologies in leveraging Classification Models in the computation of Expected Goals (or xG) to understand Football Players and Teams Characteristics'
+excerpt: 'This Research Article looks into imporved methodologies in leveraging Classification Models in the computation of Expected Goals (or xG) to understand Football Players and Teams Characteristics<br/><img src='/images/xG.png'
 date: 2023-07-06  
 venue: 'Research Square'
 paperurl: 'https://doi.org/10.21203/rs.3.rs-3172454/v1'
