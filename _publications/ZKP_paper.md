@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ZKP_paper
 excerpt: 'This paper detatils the leveraging of Zero Knowledge Proofs and Oblivious Transfer communication to allow for Ads targetting without revealing any user information'
 date: 2023-08-07
-venue: 'International Journal of Information Security, Springer'
+venue: 'Research Square'
 paperurl: 'https://doi.org/10.21203/rs.3.rs-3228844/v1'
 citation: 
 ---
