@@ -2,7 +2,7 @@
 title: "Zero Knowledge and Oblivious Ads Recommendation"
 collection: publications
 permalink: /publication/ZKP_paper
-excerpt: 'This paper detatils the leveraging of Zero Knowledge Proofs and Oblivious Transfer communication to allow for Ads targetting without revealing any user information<br/><img src='/images/zkp.png'
+excerpt: 'This paper detatils the leveraging of Zero Knowledge Proofs and Oblivious Transfer communication to allow for Ads targetting without revealing any user information<br/><img src='/images/zkp.png>'
 date: 2023-08-07
 venue: 'Research Square'
 paperurl: 'https://doi.org/10.21203/rs.3.rs-3228844/v1'
