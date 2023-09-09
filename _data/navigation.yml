@@ -2,7 +2,8 @@
 main:
   - title: "CV"
     url: /cv/
-  - title: "Publications"
+    
+  - title: "Research"
     url: /publications/
 
   #- title: "Talks"
@@ -11,8 +12,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Projects"
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/

@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a B.Tech graduate from National Institute of Technology Tiruchirappalli majored in Computer Science. I currently work with the Oracle Cloud AI Services Languages team focusing on continuous developement and deployment of microservices. I work with the cloud infrastructure, leveraging the capabilities offered by k8s and docker to maintain high performance and great efficiency of the several micro-services. 
+I'm Anirudh Rajagopalan, B.Tech graduate majored in Computer Science and Engineering from NIT Tiruchirappalli (2018-2022). I graduated in the top 12% of my department at NIT-T and with a First Class with Distinction Degree. I did my thesis under the guidance of Dr.Kunwar Singh focused on practical privacy focused application of Advaced Cryptographical concepts. I explored various different fields during the four years of my undergraduate, from Blockchain to ML to Devops, leveraging the experience, talent and facilities provided in this top tier insititution to learn and grow my capabilites.
+
+Post my B.Tech, I joined Oracle as part of the Cloud AI Services team and am currently working on DevOps of the various micro-services on offer including translation, KPE and NER. I am incharge of release deployments and all internal testing and maintenance tools.
+
+Beyond acadamia I served as the Technical Secretary of NIT-T during my senior year, incharge of all student technical activities in the institute. I also part of the Executive Committee of communities of Google DSC NIT-T, Women Inclusivity Network NIT-T, and co-founded the Blockchain community CryptoNITT. I have also had my foray into marketing with the OnePlus Ambassador program 2019-2020, being the youngest member to be accepted into the nation wide product and community marketing focused program at the age of 19. Explore my work and join my journey. 
 
 Timeline
 ------
