@@ -50,7 +50,7 @@ Skills
   * Flutter/DART
   * CUDA (for Parallel Processing)
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
