@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Review Based Recomendation System"
+excerpt: "A product recommendation system leveraging non-parametric supervised learning<br/><img src='/images/review.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This methodology is works on product based recoomendation and user based recommendation. We find similarity scores between products and users based on Nearest Neighbours by converting the review texts submitted by the user or for the product, with added weights based on if the individual review is positive or negative. One set of Products are recommended based on the products the user has provided reviews for. The second set finds similar users and recommends the products with positive reviews given by them to the user. 
