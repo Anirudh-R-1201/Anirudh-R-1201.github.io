@@ -21,10 +21,10 @@ Work experience
 ======
 * June 2022 - Present : Member of Technical Staff 
   * Oracle Cloud AI Service - Language
-  * An active member of Continuous Development and Deployment of Cloud AI Language Service across 86 regions.
-  * In charge of Operations ensuring high availability, low maintenance and minimal failures.
+  * In charge of Operations ensuring high availability, low maintenance and minimal failures. 
+  * Actively working on Continuous Development and Deployment of Cloud AI Language Service across 86 regions.
   * Maintaining and updating the internal testing tools of the various services. 
-  * Led ARM architecture migration of all micro-services and reduced running costs by 33\% as part of the Optimization Program.
+  * Led ARM architecture migration of all micro-services and reduced running costs by 33% as part of the Optimization Program.
   * Contributed to the Punctuator micro-service.
 
 * June 2021 - August 2021 : Software Development Intern
