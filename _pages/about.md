@@ -34,4 +34,4 @@ Timeline
 
 *July 2018* Joined NIT-T, India's #9th ranked Engineering Education Institution (as per GoI's NIRF rankings) for B.Tech in CSE.
 
-*June 2018* Ranked 2821 of 1.2 lakh students to write the JEE Mains Exam.
+*June 2018* Ranked 2621 of 1.2 lakh students to write the JEE Mains Exam.
