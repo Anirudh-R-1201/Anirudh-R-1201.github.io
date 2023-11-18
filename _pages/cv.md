@@ -37,13 +37,13 @@ Skills
 * Machine Learning
   * Natural Language Processing
 * Data Analysis
-* Cloud Infrastructure 
+* Cloud Infrastructure and DevOps
   * Terraform
   * Kubernetes
   * Docker
 * Blockchain
-  * Ethereum 
-* General Programming 
+  * Ethereum
+* General Programming
   * Java
   * Python
   * Android
