@@ -1,13 +1,14 @@
 ---
-title: "Zero Knowledge and Oblivious Ads Recommendation"
+title: "Zero Knowledge Bi-Party Computation Using Oblivious Transfers for Recommender Systems"
 collection: publications
 permalink: /publication/ZKP_paper
-excerpt: "TThis research article details the leveraging of Zero Knowledge Proofs and Oblivious Transfer communication to allow for Ads targeting without revealing any user information<br/><img src='/images/zkp.png'>"
+excerpt: "This research article details the leveraging of Zero Knowledge Proofs and Oblivious Transfer communication to allow for Ads targeting without revealing any user information<br/><img src='/images/zkp.png'>"
 date: 2023-08-07
 venue: 'Research Square'
-paperurl: 'https://doi.org/10.21203/rs.3.rs-3228844/v1'
+paperurl: 'https://doi.org/10.21203/rs.3.rs-3228844/v4'
 citation: 
 ---
-Interest-based Advertising, sometimes called online behavioural advertising, uses data collected from online activity on a digital device (e.g. smartphone, tablet, computer, etc.) using cookies, pixel tags, and other technologies to show personalised ads. While interest-based advertising is invaluable in helping advertisers reach the most suitable audience for their products, user privacy could be better protected if it could be accomplished without collecting a particular individual’s browsing history. This paper aims to implement an amalgamation of cryptography techniques that leverage zero-knowledge proof (ZKP) cryptography and oblivious transfer (OT) alongside standard hashing and fuzzy logic to ensure that users’ sensitive, personal and private data is always kept secure.
+Behavioural recommendations, utilizing data collected from online activity, is invaluable in helping advertisers reach the most suitable audience for their products. However, user privacy could be better pro-tected if it could be accomplished without collecting a particular individual’s data.
+We provide a generic construction to leverage the classical Zero-Knowledge (ZK) protocol into a composable oblivious transfer (OT) protocol, preserving the ZK protocol’s round-complexity properties and security guarantees in the resulting OT protocol. Incorporating Fuzzy Logic, this amalgamation ensures that users’ sensitive, personal and private data is always kept secure when communicating with the recommender systems while not compromising the capacity of these systems to create cohorts of similar individuals.
 
-[Download paper here](https://doi.org/10.21203/rs.3.rs-3228844/v1)
+[Download paper here](https://doi.org/10.21203/rs.3.rs-3228844/v4)

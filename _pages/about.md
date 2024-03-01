@@ -21,7 +21,7 @@ Timeline
 
 *May 2022* Graduated from NIT-T with First Class with Distinction, majoring in Computer Science and Engineering.
 
-*April 2022* Wrote Thesis paper on Zero Knowledge and Oblivious Ads Recommendation.
+*April 2022* Wrote Thesis paper on Zero Knowledge Bi-Party Computation Using Oblivious Transfers for Recommender Systems.
 
 *June 2021* Joined Oracle Digital Assistant Team as Intern.
 
