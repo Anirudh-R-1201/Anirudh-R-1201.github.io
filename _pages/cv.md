@@ -36,19 +36,28 @@ Skills
 ======
 * Machine Learning
   * Natural Language Processing
-* Data Analysis
+  * Retrieval-Augmented Generation (RAG)
+  * AI Agents
+* Data Science
+  * Pandas, SciPy, TensorFlow, Matplotlib, Scikit-Learn
 * Cloud Infrastructure and DevOps
   * Terraform
   * Kubernetes
   * Docker
-* Blockchain
-  * Ethereum
-* General Programming
+* Quantitative Analysis
+  * Data Analysis
+  * Predictive Modeling
+  * Time Series Analysis
+  * Statistical Inference
+* Programming Languages
   * Java
   * Python
-  * Android
-  * Flutter/DART
-  * CUDA (for Parallel Processing)
+  * C, C++
+  * CUDA (beginner)
+  * JavaScript
+  * TypeScript
+  * Go (beginner)
+  * Rust (beginner)
 
 Research
 ======
