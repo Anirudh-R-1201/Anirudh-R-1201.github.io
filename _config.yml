@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anirudh Rajagopalan"
 title_separator          : "-"
 name                     : &name "Anirudh Rajagopalan"
-description              : &description "Quantitative Analyst | ML Engineer | MS in Computer Science at USC"
+description              : &description "ML Engineer | MS in Computer Science at USC"
 url                      : https://anirudh-r-1201.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anirudh-r-1201/anirudh-r-1201.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anirudh Rajagopalan"
   avatar           : "profile-pic.png"
-  bio              : "Quantitative Analyst | ML Engineer | MS in Computer Science at USC"
+  bio              : "ML Engineer | MS in Computer Science at USC"
   location         : "Bangalore"
   employer         : "Oracle"
   pubmed           : 
