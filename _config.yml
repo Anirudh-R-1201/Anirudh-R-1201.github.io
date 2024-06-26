@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anirudh Rajagopalan"
 title_separator          : "-"
 name                     : &name "Anirudh Rajagopalan"
-description              : &description "B.Tech CSE'22 @ NIT Tiruchirappalli\n\nMember Technical Staff (DevOps Engineer) @ Oracle Cloud AI Services Language"
+description              : &description "Quantitative Analyst | ML Engineer | MS in Computer Science at USC"
 url                      : https://anirudh-r-1201.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anirudh-r-1201/anirudh-r-1201.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anirudh Rajagopalan"
   avatar           : "profile-pic.png"
-  bio              : "B.Tech CSE'22 @ NIT Tiruchirappalli\nMember Technical Staff (DevOps Engineer) @ Oracle Cloud AI Services Language"
+  bio              : "Quantitative Analyst | ML Engineer | MS in Computer Science at USC"
   location         : "Bangalore"
   employer         : "Oracle"
   pubmed           : 
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  huggingface      : "https://huggingface.co/AnirudhRajagopalan1201"
 
 
 # Reading Files

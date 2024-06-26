@@ -11,64 +11,69 @@ redirect_from:
 
 Education
 ======
-* Bachelors of Technology, National Institute of Technology, Tiruchirappalli, 2018-2022
-  * Majored in Computer Science and Engineering.
-  * Minor in Management Science.
+* Master of Science in Computer Science, University of Southern California, Viterbi, 2024 - Present
+
+* Bachelors of Technology in Computer Science and Engineering, National Institute of Technology Tiruchirappalli, 2018-2022
   * CGPA : 9.08
-  * Courses excelled in include: Data Sciences, Machine Learning, Advanced Cryptography, Data Warehousing & Data Mining, and Web Technology.
+  * Courses: Data Sciences, Machine Learning, Advanced Cryptography, Data Warehousing & Data Mining, and Web Technology.
 
 Work experience
 ======
-* June 2022 - Present : Member of Technical Staff
-  * Oracle Cloud AI Service - Language
-  * Handling testing, deployment and scaling of Large Language Models in 40+ production Cloud regions.
-  * Actively working on Continuous Development and Deployment of Cloud AI Language Service across 86 regions.
-  * Processed datasets and trained Punctuation models in Hindi, Portuguese and Russian.
-  * Led ARM architecture Kubernetes migration of micro-services with scale-to-zero strategy, reducing running costs by 33% as part of the Optimization Program.
+* June 2022 - August 2024 : Member of Technical Staff, Cloud AI Services (PaaS) 
+  * Lead Developer for Oracle AI Hub Dedicated Resource and AI Hub Billing
+  * Managed CI/CD processes for Large Language Models across 70+ cloud regions
+  * Fine-tuned multi-lingual Punctuation Model, improving accuracy by 1.5% and adding support for Hindi, Russian, and Portuguese
+  * Led infrastructure for Anomaly Detection service, reducing service running costs by 68% through cross-regional inference capabilities.
 
-* June 2021 - August 2021 : Software Development Intern
-  * Oracle Digital Assistant
-  * Handled the migration of the Digital Assistant to a lightweight multi-platform compatible module that is compatible to be added onto existing Android and iOS mobile applications and a web interface.
-  * Eliminated the requirement of multiple platform-specific applications being maintained and developed.  
+* June 2021 - August 2021 : UI/UX Intern, Oracle Digital Assistant (ODA) 
+  * Migrated ODA to Flutter, creating a single codebase for multi-platform integration  
 
-* June 2020 – October 2020 : NLP Intern
-  * Crayondata
-  * Worked on contextual Keyphrase extraction model for Online Customer Reviews using ensemble model leveraging Transformers and graphical ranking approach.
-  * Leveraged an ensemble of node2vec graph based bi-gram & tri-grams ranking model alongside BERT-based model to extract key information from user submitted information and reviews of products and services.
+* June 2020 – October 2020 : NLP Intern, Crayondata
+  * Developed a contextual Keyphrase extraction model for online customer reviews using an ensemble of transformer-based and graph-ranking models, achieving an accuracy score of 72% with latency between 20-50ms for 100+ tokens.
+  * Integrated an inference-flow decision pipeline for optimized model usage based on input token count
 
-* December 2019 – January 2020  : Research Intern
-  * IIT MADRAS, RISE LABS
-  * Worked on modifying the static 256bits Substitution Box to a scalable S.Box with three flavours (256, 196 and 128bits) to provide greater efficiency for performing low compute encryption within India’s first homogeneous microprocessor, Shakti.
-  * Enabled scalability, leading to exponentially higher efficiency in performing non-linear boolean functions and symmetric-key algorithms due to the lower computational resources required for smaller data.
+* December 2019 – January 2020  : Research Intern, RISE LABS, IIT MADRAS
+  * Reduced latency by 23% in benchmarking tests by replacing a 256-bit S.Box with a scalable 64-256-bit S.Box, enhancing the performance of non-linear Boolean functions in India’s first homogeneous microprocessor, Shakt
 
-* June 2021 - May 2022 : Technical Secretary
-  * Students' Council, NIT Tiruchirappalli  
-  * Managed all Student Technical activities of NIT-T, including Technical Clubs, Admin and Alumni relations, finance management, and was part of the advisory board of the Techno-managerial fest of NIT-T.
-  * Headed development of various student welfare driven software projects.
+
+LEADERSHIP experience
+======
+* June 2021 - May 2022 : Technical Secretary, Students' Council, NIT Tiruchirappalli  
+  * Managed student technical activities, including clubs, admin and alumni relations, finance management.
+  * Advised on the Techno-managerial fest of NIT-T and led the development of welfare-driven software projects.
   * Lead open-for-all tech communities including Google DSC NIT-T, Women Inclusivity Network and CryptoNITT.
 
-* December 2020 - May 2022 : Co-Founder and Lead
-  * CryptoNITT, the blockchain community of NIT-T
-  * Established an open community for informing and educating the benefits and usage of blockchain technology in association with Celo and Tezos.
+* December 2020 - May 2022 : Co-Founder and Lead, CryptoNITT
+  * Established and managed the Blockchain \& Crypto community at NIT-T in association with Celo and Tezos.
+  * Educated students on cryptocurrency trading and conducted workshops on smart contract development.
 
  
 Skills
 ======
 * Machine Learning
   * Natural Language Processing
-* Data Analysis
+  * Retrieval-Augmented Generation (RAG)
+  * AI Agents
+* Data Science
+  * Pandas, SciPy, TensorFlow, Matplotlib, Scikit-Learn
 * Cloud Infrastructure and DevOps
   * Terraform
   * Kubernetes
   * Docker
-* Blockchain
-  * Ethereum
-* General Programming
+* Quantitative Analysis
+  * Data Analysis
+  * Predictive Modeling
+  * Time Series Analysis
+  * Statistical Inference
+* Programming Languages
   * Java
   * Python
-  * Android
-  * Flutter/DART
-  * CUDA (for Parallel Processing)
+  * C, C++
+  * CUDA (beginner)
+  * JavaScript
+  * TypeScript
+  * Go (beginner)
+  * Rust (beginner)
 
 Research
 ======
