@@ -19,21 +19,22 @@ Education
 
 Work experience
 ======
-* June 2022 - August 2024 : Member of Technical Staff, Cloud AI Services (PaaS) 
-  * Lead Developer for Oracle AI Hub Dedicated Resource and AI Hub Billing
-  * Managed CI/CD processes for Large Language Models across 70+ cloud regions
-  * Fine-tuned multi-lingual Punctuation Model, improving accuracy by 1.5% and adding support for Hindi, Russian, and Portuguese
-  * Led infrastructure for Anomaly Detection service, reducing service running costs by 68% through cross-regional inference capabilities.
+* June 2022 - August 2024 : Member of Technical Staff, Oracle Cloud AI Services (PaaS) 
+  * Reduced running costs and increased service availability to 99.98% through K8s and AArch64 migration of Cloud infrastructure and microservices. 
+  * Set up testing scripts to detect failures within any of the service's components.
+  * Improved accuracy of multi-lingual Punctuation model scores by 1.5% and added Hindi and Portugese capabilities.
+  * Brought down service running cost by 68% for Anomaly Detection service.
+  * Led development of Oracle AI Hub Dedicated Resource Billin.
 
 * June 2021 - August 2021 : UI/UX Intern, Oracle Digital Assistant (ODA) 
-  * Migrated ODA to Flutter, creating a single codebase for multi-platform integration  
+  * Reduced development overhead by 66% by migrating platform-specific ODA codebases to Flutter based mono-repo. 
 
 * June 2020 – October 2020 : NLP Intern, Crayondata
-  * Developed a contextual Keyphrase extraction model for online customer reviews using an ensemble of transformer-based and graph-ranking models, achieving an accuracy score of 72% with latency between 20-50ms for 100+ tokens.
-  * Integrated an inference-flow decision pipeline for optimized model usage based on input token count
+  * Developed contextual Key-Phrase Extraction ensemble model for Customer Reviews, with accuracy score of 72% and latency of 20-50ms for 100+ tokens using fine-tuned BERT and Graphical Ranking models..
+  * Developed on-requirement inference pipeline to reduce latency by 40% for queries less than 30 tokens.
 
 * December 2019 – January 2020  : Research Intern, RISE LABS, IIT MADRAS
-  * Reduced latency by 23% in benchmarking tests by replacing a 256-bit S.Box with a scalable 64-256-bit S.Box, enhancing the performance of non-linear Boolean functions in India’s first homogeneous microprocessor, Shakt
+  * Attained 23% latency reduction in benchmarking tests by integrating a scalable 64 to 256bit S.Box, improving the efficiency in performance of non-linear boolean function within India’s first homogeneous microprocessor, Shakti.
 
 
 LEADERSHIP experience
@@ -44,7 +45,7 @@ LEADERSHIP experience
   * Lead open-for-all tech communities including Google DSC NIT-T, Women Inclusivity Network and CryptoNITT.
 
 * December 2020 - May 2022 : Co-Founder and Lead, CryptoNITT
-  * Established and managed the Blockchain \& Crypto community at NIT-T in association with Celo and Tezos.
+  * Established and managed the Blockchain & Crypto community at NIT-T in association with Celo and Tezos.
   * Educated students on cryptocurrency trading and conducted workshops on smart contract development.
 
  
@@ -72,6 +73,7 @@ Skills
   * CUDA (beginner)
   * JavaScript
   * TypeScript
+  * Solidity
   * Go (beginner)
   * Rust (beginner)
 

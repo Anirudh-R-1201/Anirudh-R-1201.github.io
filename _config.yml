@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anirudh Rajagopalan"
 title_separator          : "-"
 name                     : &name "Anirudh Rajagopalan"
-description              : &description "ML Engineer | MS in Computer Science at USC"
+description              : &description "MS in Computer Science at USC | ex Oracle Cloud AI Services | B.Tech at NIT-T"
 url                      : https://anirudh-r-1201.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anirudh-r-1201/anirudh-r-1201.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Anirudh Rajagopalan"
   avatar           : "profile-pic.png"
-  bio              : "ML Engineer | MS in Computer Science at USC"
-  location         : "Bangalore"
-  employer         : "Oracle"
+  bio              : "MS in Computer Science at USC | ex Oracle Cloud AI Services | B.Tech at NIT-T"
+  location         : "Los Angeles"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3HEOxxEAAAAJ&hl=en"
   email            : "anirudh.raj.iyengar@gmail.com"
