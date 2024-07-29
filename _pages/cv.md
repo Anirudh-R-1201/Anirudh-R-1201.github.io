@@ -24,13 +24,13 @@ Work experience
   * Set up testing scripts to detect failures within any of the service's components.
   * Improved accuracy of multi-lingual Punctuation model scores by 1.5% and added Hindi and Portugese capabilities.
   * Brought down service running cost by 68% for Anomaly Detection service.
-  * Led development of Oracle AI Hub Dedicated Resource Billin.
+  * Led development of Oracle AI Hub Dedicated Resource Billing.
 
 * June 2021 - August 2021 : UI/UX Intern, Oracle Digital Assistant (ODA) 
   * Reduced development overhead by 66% by migrating platform-specific ODA codebases to Flutter based mono-repo. 
 
 * June 2020 – October 2020 : NLP Intern, Crayondata
-  * Developed contextual Key-Phrase Extraction ensemble model for Customer Reviews, with accuracy score of 72% and latency of 20-50ms for 100+ tokens using fine-tuned BERT and Graphical Ranking models..
+  * Developed contextual Key-Phrase Extraction ensemble model for Customer Reviews, with accuracy score of 72% and latency of 20-50ms for 100+ tokens using fine-tuned BERT and Graphical Ranking models.
   * Developed on-requirement inference pipeline to reduce latency by 40% for queries less than 30 tokens.
 
 * December 2019 – January 2020  : Research Intern, RISE LABS, IIT MADRAS
