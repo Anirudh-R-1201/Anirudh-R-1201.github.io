@@ -19,25 +19,27 @@ Education
 
 Work experience
 ======
-* June 2022 - August 2024 : Member of Technical Staff, Oracle Cloud AI Services (PaaS) 
+* June 2022 - August 2024 : Member of Technical Staff (IC2), Oracle Cloud AI Services 
+  * Cloud Infrastructure, microservice and NLP Model Developer of OCAS Language, Speech and Anomaly Detection
   * Reduced running costs and increased service availability to 99.98% through K8s and AArch64 migration of Cloud infrastructure and microservices. 
-  * Set up testing scripts to detect failures within any of the service's components.
   * Improved accuracy of multi-lingual Punctuation model scores by 1.5% and added Hindi and Portugese capabilities.
   * Brought down service running cost by 68% for Anomaly Detection service.
   * Led development of Oracle AI Hub Dedicated Resource Billing.
 
-* June 2021 - August 2021 : UI/UX Intern, Oracle Digital Assistant (ODA) 
-  * Reduced development overhead by 66% by migrating platform-specific ODA codebases to Flutter based mono-repo. 
+* June 2021 - August 2021 : Software Developer Intern, Oracle Digital Assistant (ODA) 
+  * Migrated platform specific ODA code-bases to Flutter based single code P.o.C as a Front End developer.
+  * Reduced development overhead by 66% through migrating to mono-repo structure.
 
-* June 2020 – October 2020 : NLP Intern, Crayondata
-  * Developed contextual Key-Phrase Extraction ensemble model for Customer Reviews, with accuracy score of 72% and latency of 20-50ms for 100+ tokens using fine-tuned BERT and Graphical Ranking models.
-  * Developed on-requirement inference pipeline to reduce latency by 40% for queries less than 30 tokens.
+* June 2020 – October 2020 : Machine Learning Intern, Crayondata
+  * Key-Phrase Extraction model developer for realtime customer reviews moonshot product.
+  * Developed contextual KPE ensemble model with accuracy of 72% using fine-tuned BERT and Graph based ranking.
+  * Designed and implemented on-requirement inference pipeline to reduce latency by 40% for queries less than 30 tokens
 
-* December 2019 – January 2020  : Research Intern, RISE LABS, IIT MADRAS
+* December 2019 – January 2020  : Research Intern, RISE LABS - IIT MADRAS
   * Attained 23% latency reduction in benchmarking tests by integrating a scalable 64 to 256bit S.Box, improving the efficiency in performance of non-linear boolean function within India’s first homogeneous microprocessor, Shakti.
 
 
-LEADERSHIP experience
+Part-time experience
 ======
 * June 2021 - May 2022 : Technical Secretary, Students' Council, NIT Tiruchirappalli  
   * Managed student technical activities, including clubs, admin and alumni relations, finance management.
@@ -51,11 +53,10 @@ LEADERSHIP experience
  
 Skills
 ======
-* Machine Learning
+* Machine Learning and Data Sciences
   * Natural Language Processing
   * Retrieval-Augmented Generation (RAG)
   * AI Agents
-* Data Science
   * Pandas, SciPy, TensorFlow, Matplotlib, Scikit-Learn
 * Cloud Infrastructure and DevOps
   * Terraform
@@ -71,6 +72,8 @@ Skills
   * Python
   * C, C++
   * CUDA (beginner)
+  * Bash
+  * SQL, noSQL
   * JavaScript
   * TypeScript
   * Solidity
