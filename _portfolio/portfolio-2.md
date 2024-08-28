@@ -1,6 +1,6 @@
 ---
 title: "Football xG"
-excerpt: "An expected Goals model to help with Fantasy PL player seletion. <br><img src='/images/table.png'  height='200' width='200'>"
+excerpt: "An expected Goals model to help with Fantasy PL player seletion. <br><img src='/images/table.png'  height='600' width='600'>"
 collection: portfolio
 ---
 

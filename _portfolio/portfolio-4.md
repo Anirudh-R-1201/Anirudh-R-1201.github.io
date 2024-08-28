@@ -1,6 +1,6 @@
 ---
 title: "Chess AI"
-excerpt: "A chess AI bot using Min Max algorithm optimised with branch pruning.<br><img src='/images/chess.png' height='200' width='200'>"
+excerpt: "A chess AI bot using Min Max algorithm optimised with branch pruning.<br><img src='/images/chess.png' height='600' width='600'>"
 collection: portfolio
 ---
  

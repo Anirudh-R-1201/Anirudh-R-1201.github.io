@@ -1,6 +1,6 @@
 ---
 title: "SeqToPar"
-excerpt: "Conversion of sequential to parallel algorithms using CUDA.<br><img src='/images/s2p.png'  height='200' width='200'>"
+excerpt: "Conversion of sequential to parallel algorithms using CUDA.<br><img src='/images/s2p.png'  height='600' width='600'>"
 collection: portfolio
 ---
 
