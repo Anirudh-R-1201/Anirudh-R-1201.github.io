@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Anirudh Rajagopalan"
-  avatar           : "profile-pic.png"
-  bio              : "MS in Computer Science at USC | ex Oracle Cloud AI Services | B.Tech at NIT-T"
-  location         : "Los Angeles"
+  avatar           : "pic1.jpeg" # "profile-pic.png"
+  bio              : "Master of Science in Computer Science at USC | ex Oracle Cloud AI Services | Bachelor of Technology (B.Tech) at NIT Tiruchirappalli"
+  location         : "California, USA"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3HEOxxEAAAAJ&hl=en"
   email            : "anirudh.raj.iyengar@gmail.com"
+  email            : "ar92426@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :

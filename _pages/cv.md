@@ -20,23 +20,22 @@ Education
 Work experience
 ======
 * June 2022 - August 2024 : Member of Technical Staff (IC2), Oracle Cloud AI Services 
-  * Cloud Infrastructure, microservice and NLP Model Developer of OCAS Language, Speech and Anomaly Detection
-  * Reduced running costs and increased service availability to 99.98% through K8s and AArch64 migration of Cloud infrastructure and microservices. 
-  * Improved accuracy of multi-lingual Punctuation model scores by 1.5% and added Hindi and Portugese capabilities.
-  * Brought down service running cost by 68% for Anomaly Detection service.
+  * Engineered and optimized AI Platform for OCAS Language, Speech, and Anomaly Detection services.
+  * Spearheaded ARM & K8s migration of microservices, resulting in 99.98% service availability and huge running cost reduction.
+  * Fine-tuned and trained multilingual Punctuation Model, improving accuracy by 2.3% while adding Hindi and Russian capabilities for Translation post-processing
+  * Collaborated with cross-functional teams, including stakeholders from US and UK, PMs and model developers toconduct thorough technical design reviews, feature development, testing, and experimentation.
   * Led development of Oracle AI Hub Dedicated Resource Billing.
 
 * June 2021 - August 2021 : Software Developer Intern, Oracle Digital Assistant (ODA) 
-  * Migrated platform specific ODA code-bases to Flutter based single code P.o.C as a Front End developer.
-  * Reduced development overhead by 66% through migrating to mono-repo structure.
+  * Engineered unified Flutter-based platform-independent codebases, reducing development overhead.
+  * Prototyped any-to-any language communication feature by integrating OCI Language Detection and Translation model during client-service communication, allowing clients to talk in eight different languages to a English trained ODA bot
 
 * June 2020 – October 2020 : Machine Learning Intern, Crayondata
-  * Key-Phrase Extraction model developer for realtime customer reviews moonshot product.
-  * Developed contextual KPE ensemble model with accuracy of 72% using fine-tuned BERT and Graph based ranking.
-  * Designed and implemented on-requirement inference pipeline to reduce latency by 40% for queries less than 30 tokens
+  * Developed a contextual Key-Phrase Extraction ensemble model achieving 72% accuracy for customer review analysis.
+  * Designed and implemented on-requirement inference pipeline to reduce latency by 40% for queries less than 40 tokens
 
 * December 2019 – January 2020  : Research Intern, RISE LABS - IIT MADRAS
-  * Attained 23% latency reduction in benchmarking tests by integrating a scalable 64 to 256bit S.Box, improving the efficiency in performance of non-linear boolean function within India’s first homogeneous microprocessor, Shakti.
+  * Attained 23% latency reduction in benchmarking through integrating a scalable 64 to 256bit S.Box, improving the efficiency in performance of non-linear boolean function within India’s first homogeneous microprocessor, Shakti.
 
 
 Part-time experience
@@ -57,7 +56,7 @@ Skills
   * Natural Language Processing
   * Retrieval-Augmented Generation (RAG)
   * AI Agents
-  * Pandas, SciPy, TensorFlow, Matplotlib, Scikit-Learn
+  * Pytorch, Pandas, SciPy, TensorFlow, Triton, Matplotlib, Scikit-Learn
 * Cloud Infrastructure and DevOps
   * Terraform
   * Kubernetes

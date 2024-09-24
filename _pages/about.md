@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Anirudh Rajagopalan, a proficient Machine Learning Engineer with extensive experience in AI, ML, and data science. With a strong foundation in computer science and engineering gained from NIT Tiruchirappalli and two years of work experience at Oracle Cloud AI Services, I specialize in developing and deploying large-scale AI solutions, optimizing infrastructure, and leading innovative projects. Currently pursuing a Master of Science in Computer Science at the University of Southern California, I excel in DevOps, NLP/LLMs, quantitative analysis, predictive modeling, and statistical inference. My passion lies in leveraging advanced technologies to solve complex problems and drive impactful solutions.
+I’m Anirudh Rajagopalan, a graduate student in Computer Science at the University of Southern California with a strong background in software engineering, cloud infrastructure, and machine learning. My journey in technology has spanned from developing AI-driven platforms at Oracle Cloud AI Services to working on NLP and recommendation systems during my internship at Crayon Data. I’m passionate about solving complex problems, building scalable systems, and exploring the potential of AI and machine learning to drive innovation.
+
+Some of my notable projects include leveraging Kubernetes, Advanced Cryptography, NLP Models, Full Stack Web Development and more. I am always eager to collaborate on impactful projects that blend technology with creativity to solve real-world challenges.
+
+Feel free to explore my projects and connect with me on LinkedIn or GitHub!
 
 Timeline
 ------
@@ -19,13 +23,13 @@ Timeline
 
 *June 2022* Joined Oracle as Member Technical Staff of Cloud AI Services Team.
 
-*May 2022* Graduated from NIT-T with First Class with Distinction, majoring in Computer Science and Engineering.
+*May 2022* Graduated from NIT Tiruchirappalli with First Class with Distinction, majoring in Computer Science and Engineering with minor in Management.
 
-*April 2022* Wrote Thesis paper on Zero Knowledge Bi-Party Computation Using Oblivious Transfers for Recommender Systems.
+*April 2022* Wrote Bachelor Thesis on Zero Knowledge Bi-Party Computation Using Oblivious Transfers for Recommender Systems.
 
-*June 2021* Joined Oracle Digital Assistant Team as Intern.
+*June 2021* Joined Oracle Digital Assistant Team as Software Engineering Intern.
 
-*May 2021* Started serving as the Student Technical Secretary of NIT-T.
+*May 2021* Started serving as the Student Technical Secretary of NIT Tiruchirappalli under the office of the Dean of Student Welfare.
 
 *December 2019* Started Interning at RISE Labs of IIT Madras under Dr.Kamakoti.
 
