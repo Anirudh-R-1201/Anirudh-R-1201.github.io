@@ -19,8 +19,7 @@ Education
 
 Work experience
 ======
-* **Nvidia** May 2025 – August 2025
-  * Software Engineer Intern | CUDA, DGX & Cloud Computing, Santa Clara, CA
+* May 2025 – August 2025 : Software Engineer Intern, Nvidia Cloud Networking, Santa Clara, CA
   * Developing K8s networking solution for ovn-kubernetes
   * Working to integrate SDN solution to open-sourced repository.
 
