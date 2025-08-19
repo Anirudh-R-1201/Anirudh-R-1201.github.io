@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Anirudh Rajagopalan, a graduate student in Computer Science at the University of Southern California with a strong background in software engineering, cloud infrastructure, and machine learning. My journey in technology has spanned from developing AI-driven platforms at Oracle Cloud AI Services to working on NLP and recommendation systems during my internship at Crayon Data. I'm passionate about solving complex problems, building scalable systems, and exploring the potential of AI and machine learning to drive innovation.
+I'm Anirudh Rajagopalan, a graduate student in Computer Science at the University of Southern California with a strong background in software engineering, cloud infrastructure, and machine learning. My journey in technology has spanned from developing AI-driven platforms at Oracle Cloud AI Services to working on Kubernetes networking solutions at Nvidia. I'm passionate about solving complex problems, building scalable systems, and exploring the potential of AI and machine learning to drive innovation.
 
 Some of my notable projects include leveraging Kubernetes, Advanced Cryptography, NLP Models, Full Stack Web Development and more. I am always eager to collaborate on impactful projects that blend technology with creativity to solve real-world challenges.
 
@@ -17,9 +17,9 @@ Feel free to explore my projects and connect with me on LinkedIn or GitHub!
 Timeline
 ------
 
-* **May 2025 - August 2025** Upcoming Software Engineering Internship at Nvidia (Cloud Networking), Santa Clara, CA.
+* **May 2025 - August 2025** Software Engineering Intern at Nvidia DGX Cloud, Santa Clara, CA - Working on ovn-K8s networking solutions and security frameworks.
 * **August 2024** Joined USC Viterbi to pursue M.S in Computer Science.
-* **June 2022 - July 2024** Software Engineer at Oracle Cloud AI Services (OCAS), Bengaluru, India.
+* **June 2022 - July 2024** Software Engineer at Oracle Cloud AI Services (OCAS), Bengaluru, India - Led AI platform optimization and K8s migration.
 * **August 2023** Wrote Research Article on Football performance evaluation using Classification Models.
 * **May 2022** Graduated from NIT Tiruchirappalli with First Class with Distinction, majoring in Computer Science and Engineering with minor in Management.
 * **Summer 2021 - Summer 2022** Served as the Student Technical Secretary of NIT Tiruchirappalli under the office of the Dean of Student Welfare.

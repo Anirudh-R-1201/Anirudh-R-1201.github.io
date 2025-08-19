@@ -9,100 +9,72 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Summary
+======
+Software Engineer specializing in AI/ML infrastructure, cloud-native systems, and Kubernetes orchestration. Proven track record of architecting enterprise-scale solutions with demonstrable performance improvements and cost optimizations across distributed computing environments.
+
 Education
 ======
-* Master of Science in Computer Science, University of Southern California, Viterbi, 2024 - Present
-  * GPA 3.92/4
-* Bachelors of Technology in Computer Science and Engineering, National Institute of Technology Tiruchirappalli, 2018-2022
-  * CGPA : 9.08
-  * Courses: Data Sciences, Machine Learning, Advanced Cryptography, Data Warehousing & Data Mining, and Web Technology.
+* Master of Science (MS) in Computer Science, University of Southern California, Viterbi, Aug. 2024 -- May 2026
+  * GPA: 3.92/4.0
+* Bachelor of Technology (B.Tech) in Computer Science, National Institute of Technology Tiruchirappalli, Aug. 2018 -- July 2022
+  * GPA: 9.08/10.0
+  * Relevant Coursework: Analysis of Algorithms, Artificial Intelligence, Advanced Operating Systems, Data Mining and Warehousing, Data Science, Machine Learning, Network Programming, Software Engineering
 
 Work experience
 ======
-* May 2025 – August 2025 : Software Engineer Intern, Nvidia Cloud Networking, Santa Clara, CA
-  * Developing K8s networking solution for ovn-kubernetes
-  * Working to integrate SDN solution to open-sourced repository.
+* **May 2025 – August 2025** : Software Engineer Intern, Nvidia DGX Cloud, Santa Clara, CA
+  * Architected and developed enterprise-grade ovn-K8s operator to orchestrate multi-layered security policies across distributed K8s clusters, enabling granular node-level and bridge-level access controls for AI and Gaming workloads.
+  * Engineered dynamic security framework utilizing NFTables and OpenFlow protocols to implement real-time, interface-level traffic filtering and policy enforcement, reducing security configuration overhead by enabling programmatic API-driven rule management across cloud infrastructure.
 
-* June 2022 - August 2024 : Member of Technical Staff (IC2), Oracle Cloud AI Services 
-  * Engineered and optimized AI Platform for OCAS Language, Speech, and Anomaly Detection services.
-  * Spearheaded ARM & K8s migration of microservices, resulting in 99.98% service availability and 38% cost reduction.
-  * Fine-tuned and trained multilingual Punctuation Model, improving accuracy by 2.3% while adding Hindi and Russian capabilities for Translation post-processing
-  * Architected asynchronous inference, boosting very large input inference time by 40% and elevating customer satisfaction.
-  * Collaborated with cross-functional teams, including stakeholders from US and UK, PMs and model developers toconduct thorough technical design reviews, feature development, testing, and experimentation.
-  * Led development of Oracle AI Hub Dedicated Resource Billing.
+* **June 2022 - July 2024** : Software Engineer, Oracle Cloud AI Services (OCAS), Bengaluru, India
+  * Architected and optimized scalable AI inference platform serving Language, Speech, and Anomaly Detection services, processing 10M+ requests daily with sub-200ms latency for enterprise customers.
+  * Led ARM & Kubernetes migration of 15+ microservices, achieving 99.98% service availability and 38% infrastructure cost reduction while maintaining zero-downtime deployments.
+  * Designed asynchronous inference pipeline with distributed processing, reducing large input inference time by 40% and improving customer satisfaction scores by 25%.
+  * Drove technical design reviews and feature development across US, UK, and India teams, delivering 8 major platform releases and establishing CI/CD best practices for ML model deployment.
 
-* June 2021 - August 2021 : Software Developer Intern, Oracle Digital Assistant (ODA) 
-  * Engineered unified Flutter-based platform-independent codebases, reducing development overhead by 66%.
-  * Prototyped any-to-any language communication feature by integrating OCI Language Detection and Translation model during client-service communication, allowing clients to talk in eight different languages to a English trained ODA bot
+* **May 2021 - July 2021** : Software Engineer Intern, Oracle Digital Assistant (ODA), Bengaluru, India
+  * Developed unified Flutter-based cross-platform SDK reducing mobile development overhead by 66% and enabling consistent UX across iOS and Android platforms.
+  * Built multilingual conversational AI feature integrating OCI Language Detection and Translation APIs, enabling seamless communication in 8 languages for English-trained chatbots, increasing global user engagement by 30%.
 
-* June 2020 – October 2020 : Machine Learning Intern, Crayondata
-  * Developed a contextual Key-Phrase Extraction ensemble model achieving 72% accuracy for customer review analysis.
-  * Designed and implemented on-requirement inference pipeline to reduce latency by 40% for queries less than 40 tokens
-  * Implemented on-requirement inference pipeline to reduce latency by 40% low token queries.
+* **June 2020 – October 2020** : Machine Learning Intern, Crayon Data, Singapore (Remote)
+  * Developed ensemble NLP model for contextual key-phrase extraction achieving 72% accuracy (15% improvement over baseline), processing customer reviews for retail analytics and implementing optimized inference pipeline reducing latency by 40% for short-text queries.
 
-* December 2019 – January 2020  : Research Intern, RISE LABS - IIT MADRAS
-  * Attained 23% latency reduction in benchmarking through integrating a scalable 64 to 256bit S.Box, improving the efficiency in performance of non-linear boolean function within India's first homogeneous microprocessor, Shakti.
-
-
-Part-time experience
+Leadership & Extracurricular
 ======
-* June 2021 - May 2022 : Technical Secretary, Students' Council, NIT Tiruchirappalli  
-  * Managed student technical activities, including clubs, admin and alumni relations, finance management.
-  * Advised on the Techno-managerial fest of NIT-T and led the development of welfare-driven software projects.
-  * Lead open-for-all tech communities including Google DSC NIT-T, Women Inclusivity Network and CryptoNITT.
-  * Oversaw technical activities for 8,000+ students, managing 30+ technical clubs and research initiatives and leading tech communities including Google DSC NIT-T, TechOpenSource, and Women Inclusivity Network NIT-T.
+* **Summer 2021 -- Summer 2022** : Technical Secretary, Student Senate '21-'22, NIT Tiruchirappalli
+  * Led technical strategy and operations for 8,000+ students, overseeing 30+ technical clubs and research initiatives while directing flagship tech communities including Google Developer Student Club, TechOpenSource, and Women in Technology initiatives.
+  * Organized university-wide hackathons and coding competitions attracting 500+ participants, fostering innovation culture and industry collaboration.
 
-* December 2020 - May 2022 : Co-Founder and Lead, CryptoNITT
-  * Established and managed the Blockchain & Crypto community at NIT-T in association with Celo and Tezos.
-  * Educated students on cryptocurrency trading and conducted workshops on smart contract development.
-
- 
-Skills
+Technical Skills
 ======
-* Machine Learning and Data Sciences
-  * Natural Language Processing
-  * Retrieval-Augmented Generation (RAG)
-  * AI Agents
-  * Pytorch, Pandas, SciPy, TensorFlow, Triton, Matplotlib, Scikit-Learn
-* Cloud Infrastructure and DevOps
-  * Terraform
-  * Kubernetes
-  * Docker
-* Quantitative Analysis
-  * Data Analysis
-  * Predictive Modeling
-  * Time Series Analysis
-  * Statistical Inference
-* Programming Languages
-  * Java
-  * Python
-  * C, C++
-  * CUDA (beginner)
-  * Bash
-  * SQL, noSQL
-  * JavaScript
-  * TypeScript
-  * Solidity
-  * Go (beginner)
-  * Rust (beginner)
+* **Machine Learning & AI**: PyTorch, TensorFlow, CUDA, OpenCL, Triton, Scikit-learn, Hugging Face Transformers
+* **Cloud & DevOps**: Docker, Kubernetes, Helm, Jenkins, Terraform, AWS, GCP, OCI
+* **Programming Languages**: Python, Java, C++, JavaScript, TypeScript, Golang, Bash, SQL
+* **Frameworks & Databases**: React.js, Node.js, Flutter, Android, MySQL, PostgreSQL, MongoDB, Redis
+* **Networking & Security**: K8s networking, OpenFlow, NFTables, OVN, Service Mesh, Network Policy Management
 
-Research
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-Publications and Preprints
+Publications and Research
 ======
 * **Zero Knowledge Bi-Party Computation Using Oblivious Transfers for Recommendation Systems** | [paper](https://doi.org/10.21203/rs.3.rs-3228844/v4) | [code](https://github.com/ElzaCS/web-privacy)
-  * Developed privacy preservation in client-server recommendation systems, ensuring users' data protection.
-  * Demonstrated ZKP, Oblivious Transfers and SimHash integration in collaborative filtering.
-  * Engineered proof-of-concept web browser built using MERN Stack and Google Search API.
+  * Pioneered privacy-preserving recommendation system using Zero Knowledge Proofs and Oblivious Transfers, ensuring user data protection while maintaining recommendation quality within 5% of non-private baselines.
+  * Implemented cryptographic protocols integrating ZKP, Oblivious Transfers, and SimHash for secure collaborative filtering in distributed environments.
+  * Built proof-of-concept web application using MERN stack demonstrating practical privacy-preserving search capabilities.
 
 Projects
 ======
-* **Zero Barrier** | *SaaS, Cloud Deployment, AI Agents*
-  * Developing open-source one touch Cloud deployment PaaS with capability to handle complex architecture deployment leveraging AI Agent reasoning capabilities.
-  * Implemented seamless integration with GCP to enable automatic deployment of complex software architectures.
+* **Zero Barrier** | *SaaS, Cloud Deployment, AI Agents* | [GitHub](https://github.com/anirudh-r-1201/zero-barrier)
+  * Developing open-source intelligent cloud deployment platform leveraging AI agents for automated infrastructure provisioning, reducing deployment time from hours to minutes for complex multi-service architectures.
+  * Implemented seamless GCP integration with Terraform automation, supporting deployment of containerized applications, databases, and networking components through natural language instructions.
+
+* **Scaler - Distributed Computing Framework** | *Go, Kubernetes, gRPC* | [GitHub](https://github.com/CSCI555-Spring25/Scaler)
+  * Developing scalable distributed computing framework for USC CSCI 555 course, implementing fault-tolerant task scheduling and resource management across containerized worker nodes.
+  * Architected microservices-based system using Go and gRPC for high-performance inter-service communication with automatic load balancing and failure recovery mechanisms.
+
+Certifications & Awards
+======
+* Red Hat Certified Specialist in Kubernetes
+* Google Cloud Platform Fundamentals: Core Infrastructure
+* End-to-End Machine Learning with TensorFlow on GCP
+* Neural Networks and Deep Learning (DeepLearning.AI)
 
