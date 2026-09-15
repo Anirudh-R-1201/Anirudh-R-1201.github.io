@@ -1,9 +1,12 @@
 ---
-title: "Review Based Recommendations System"
-excerpt: "A product recommendation system leveraging non-parametric supervised learning"
+title: "Scaler"
+excerpt: "A fault-tolerant distributed computing framework built with Go, Kubernetes, and gRPC."
 collection: portfolio
+permalink: /portfolio/scaler/
 ---
 
-This methodology works on product-based recommendations and user-based recommendations. We find similarity scores between products and users based on Nearest Neighbours by converting the review texts submitted by the user or for the product, with added weights based on whether the individual review is positive or negative. One set of Products is recommended based on the products the user reviews. The second set finds similar users and recommends the products with positive reviews given by them to the user.
+Scaler is a distributed task-execution framework designed around explicit coordination, failure recovery, and resource ownership.
 
-[Repository](https://github.com/Anirudh-R-1201/Review-Based-Recomendation-System)
+The system separates scheduling and worker responsibilities, communicates over gRPC, and runs each component in Kubernetes. It tracks worker health, assigns tasks according to available capacity, and recovers work when nodes become unavailable. The project was an opportunity to reason directly about failure modes, communication boundaries, load distribution, and the operational behavior of a multi-node service.
+
+[Repository](https://github.com/CSCI555-Spring25/Scaler)

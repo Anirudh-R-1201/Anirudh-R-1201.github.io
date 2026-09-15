@@ -1,14 +1,16 @@
 ---
 title: "Zero Knowledge Bi-Party Computation Using Oblivious Transfers for Recommender Systems"
 collection: publications
+category: manuscripts
 permalink: /publication/ZKP_paper
-excerpt: "This research article details the leveraging of Zero Knowledge Proofs and Oblivious Transfer communication to allow for Ads targeting without revealing any user information<br/><img src='/images/zkp.png'>"
+excerpt: "A protocol combining zero-knowledge proofs and oblivious transfer so two parties can compute recommendations without disclosing private inputs.<br/><img src='/images/zkp.png'>"
 date: 2023-08-07
 venue: 'Research Square'
 paperurl: 'https://doi.org/10.21203/rs.3.rs-3228844/v4'
 citation: 
 ---
-Behavioural recommendations, utilizing data collected from online activity, is invaluable in helping advertisers reach the most suitable audience for their products. However, user privacy could be better pro-tected if it could be accomplished without collecting a particular individual’s data.
-We provide a generic construction to leverage the classical Zero-Knowledge (ZK) protocol into a composable oblivious transfer (OT) protocol, preserving the ZK protocol’s round-complexity properties and security guarantees in the resulting OT protocol. Incorporating Fuzzy Logic, this amalgamation ensures that users’ sensitive, personal and private data is always kept secure when communicating with the recommender systems while not compromising the capacity of these systems to create cohorts of similar individuals.
+This work asks a systems question: how can two parties compute a useful recommendation while neither party reveals its private input?
 
-[Download paper here](https://doi.org/10.21203/rs.3.rs-3228844/v4)
+The proposed construction composes a zero-knowledge protocol with oblivious transfer while preserving round-complexity and security properties. Fuzzy matching and SimHash support practical cohort construction, and a working web implementation demonstrates the protocol, trust boundaries, and message flow end to end.
+
+[Read the paper](https://doi.org/10.21203/rs.3.rs-3228844/v4)

@@ -1,9 +1,12 @@
 ---
-title: "Football xG"
-excerpt: "An expected Goals model to help with Fantasy PL player seletion. <br><img src='/images/table.png'>"
+title: "Zero Barrier"
+excerpt: "Infrastructure automation for deploying multi-service applications on Google Cloud."
 collection: portfolio
+permalink: /portfolio/zero-barrier/
 ---
 
-An Expected Goals model that presents the underlying number of performances, highlighting if a team or player is over or underperforming based on current stats. This was leveraged to indicate the performance trajectory for players in upcoming game weeks, indicating who can be picked for the EPL fantasy teams and gain the most points. The data was scraped from the Premier League’s database as per Game Week 10 of the 2020-2021 Season
+Zero Barrier is an open-source deployment platform for turning an application topology into repeatable cloud infrastructure.
 
-[Repository](https://github.com/Anirudh-R-1201/Football_xG/blob/master/PLfantasyScraper.ipynb)
+It coordinates Terraform workflows for compute, networking, databases, and containerized services on Google Cloud. The project focuses on dependency ordering, provider integration, state management, failure reporting, and making complex deployments reproducible instead of relying on one-off console operations.
+
+[Repository](https://github.com/Anirudh-R-1201/Zero-Barrier)

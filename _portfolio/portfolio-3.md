@@ -1,9 +1,12 @@
 ---
 title: "GenericCoin"
-excerpt: "A proof of work based blockchain created using VanillaJS"
+excerpt: "A blockchain implementation exploring proof-of-work consensus and transaction integrity."
 collection: portfolio
+permalink: /portfolio/generic-coin/
 ---
 
-This was an attempt to create a vanilla blockchain from scratch providing security in a decentralised setup, leveraging on Proof of Work consensus mechanism. The blockchain (GenericCoin) leverages EC encryption and proof of work to mine new blocks and verify transactions. Truffle Suite’s Ganache and Metamask wallet were used in testing.
+GenericCoin is a blockchain built from first principles to study the mechanics behind decentralized state.
+
+The implementation covers block construction, proof-of-work mining, transaction verification, elliptic-curve signatures, and chain validation. Ganache and MetaMask were used to exercise transaction flows and inspect how state changes propagate through the system.
 
 [Repository](https://github.com/Anirudh-R-1201/GenericCoin)
