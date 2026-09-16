@@ -30,7 +30,7 @@ function setTheme(theme) {
   const use_theme = theme ||
     localStorage.getItem("theme") ||
     $("html").attr("data-theme") ||
-    browserPref;
+    (browserPref ? "dark" : "light");
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
@@ -145,12 +145,17 @@ $(document).ready(function () {
 
   // If the user hasn't chosen a theme, follow the OS preference
   setTheme();
-  window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener("change", (e) => {
+  const colorSchemeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  const handleColorSchemeChange = (e) => {
           if (!localStorage.getItem("theme")) {
             setTheme(e.matches ? "dark" : "light");
           }
-        });
+        };
+  if (colorSchemeQuery.addEventListener) {
+    colorSchemeQuery.addEventListener("change", handleColorSchemeChange);
+  } else if (colorSchemeQuery.addListener) {
+    colorSchemeQuery.addListener(handleColorSchemeChange);
+  }
 
   // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);

@@ -53,22 +53,15 @@
     window.addEventListener("scroll", update, { passive: true });
   };
 
-  const enableAmbientMotion = () => {
-    const hero = document.querySelector(".apple-hero");
-    if (!hero || reducedMotion.matches) return;
+  const enableThemeKeyboard = () => {
+    const toggle = document.querySelector("#theme-toggle a");
+    if (!toggle) return;
 
-    let frame;
-    const update = () => {
-      frame = null;
-      const progress = Math.min(window.scrollY / Math.max(hero.offsetHeight, 1), 1);
-      hero.style.setProperty("--hero-shift", `${progress * 44}px`);
-      hero.style.setProperty("--hero-fade", `${1 - progress * 0.35}`);
-    };
-
-    window.addEventListener("scroll", () => {
-      if (!frame) frame = requestAnimationFrame(update);
-    }, { passive: true });
-    update();
+    toggle.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter" && event.key !== " ") return;
+      event.preventDefault();
+      toggle.click();
+    });
   };
 
   const init = () => {
@@ -76,7 +69,7 @@
     revealElements();
     enableCardDepth();
     enableNavState();
-    enableAmbientMotion();
+    enableThemeKeyboard();
   };
 
   if (document.readyState === "loading") {

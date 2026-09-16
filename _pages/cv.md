@@ -1,6 +1,7 @@
 ---
-layout: single
+layout: detail
 title: "CV"
+kicker: "Résumé"
 permalink: /cv/
 author_profile: false
 redirect_from:
@@ -9,12 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-Profile
-======
+## Profile
 Systems engineer focused on networking, distributed infrastructure, reliability, security, and performance. Experienced in building cloud services, Kubernetes networking components, high-throughput inference platforms, asynchronous processing systems, and developer-facing infrastructure.
 
-Experience
-======
+## Experience
 
 ### NVIDIA — SDN Team
 **Engineer, SDN Team · 2026 -- Present**
@@ -53,8 +52,7 @@ Working on software-defined networking systems for cloud infrastructure.
 
 Worked on early research and engineering projects spanning data-intensive systems and applied machine learning.
 
-Education
-======
+## Education
 
 ### University of Southern California, Viterbi School of Engineering
 **M.S. in Computer Science · August 2024 -- May 2026 · GPA: 3.96/4.0**
@@ -66,8 +64,7 @@ Selected coursework: Advanced Operating Systems, Advanced Computer Networking, C
 
 Minor in Management. Graduated First Class with Distinction.
 
-Systems Toolkit
-======
+## Systems Toolkit
 
 * **Networking:** OVN, OpenFlow, nftables, Kubernetes networking, network policy, service meshes, TCP/IP
 * **Distributed systems:** gRPC, asynchronous processing, fault tolerance, scheduling, service discovery, consistency and coordination
@@ -77,8 +74,7 @@ Systems Toolkit
 * **Performance:** CUDA, parallel algorithms, profiling, load testing, latency and throughput analysis
 * **Applied ML:** PyTorch, TensorFlow, scikit-learn, model serving, NLP, feature engineering
 
-Selected Projects
-======
+## Selected Projects
 
 ### Scaler — Distributed Computing Framework
 [Source](https://github.com/CSCI555-Spring25/Scaler)
@@ -95,8 +91,7 @@ Privacy-preserving recommendation protocol combining zero-knowledge proofs, obli
 
 Product-ranking system using review sentiment, nearest-neighbor similarity, and separate product- and user-based recommendation paths.
 
-Leadership
-======
+## Leadership
 
 ### Technical Secretary, Student Senate — NIT Tiruchirappalli
 **2021 -- 2022**
@@ -108,13 +103,11 @@ Leadership
 
 Represented OnePlus on campus as one of 25 students selected for its national student ambassador program.
 
-Languages
-======
+## Languages
 
 English and Tamil (native or bilingual), Hindi (professional working proficiency), and Japanese (elementary).
 
-Certifications
-======
+## Certifications
 
 * Red Hat Certified Specialist in Kubernetes
 * Google Cloud Platform Fundamentals: Core Infrastructure

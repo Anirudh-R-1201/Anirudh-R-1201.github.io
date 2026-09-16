@@ -1,7 +1,6 @@
 ---
 layout: home
 permalink: /
-title: "Anirudh Rajagopalan"
 excerpt: "Systems engineer working across networking, distributed infrastructure, and AI platforms."
 author_profile: false
 redirect_from:
@@ -21,7 +20,7 @@ redirect_from:
       </div>
     </div>
     <figure class="apple-portrait" data-depth data-reveal>
-      <img src="/images/pic1.jpeg" alt="Anirudh Rajagopalan at the Golden Gate Bridge">
+      <img src="/images/pic1.jpeg" width="1536" height="2048" fetchpriority="high" alt="Anirudh Rajagopalan at the Golden Gate Bridge">
       <figcaption class="apple-portrait__caption"><strong>Anirudh Rajagopalan</strong><span>Networking · Infrastructure · Platforms</span></figcaption>
     </figure>
   </div>
