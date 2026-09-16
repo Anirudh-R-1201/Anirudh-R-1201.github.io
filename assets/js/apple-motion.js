@@ -71,11 +71,17 @@
     update();
   };
 
-  document.addEventListener("DOMContentLoaded", () => {
+  const init = () => {
     document.documentElement.classList.add("motion-ready");
     revealElements();
     enableCardDepth();
     enableNavState();
     enableAmbientMotion();
-  });
+  };
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init, { once: true });
+  } else {
+    init();
+  }
 })();
