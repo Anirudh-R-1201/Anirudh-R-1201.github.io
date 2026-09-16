@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Anirudh Rajagopalan | Systems Engineer"
 title_separator          : "-"
 name                     : &name "Anirudh Rajagopalan"
-description              : &description "Systems engineer working on networking, distributed infrastructure, reliability, and performance at NVIDIA"
+description              : &description "Systems engineer working on networking, distributed infrastructure, and platforms for AI workloads at NVIDIA"
 url                      : https://anirudh-r-1201.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,8 +26,8 @@ author:
   avatar           : "pic1.jpeg"
   name             : "Anirudh Rajagopalan"
   pronouns         : # example: "she/her"  
-  bio              : "Systems engineer focused on networking, distributed infrastructure, reliability, and performance"
-  location         : "Los Angeles, California"
+  bio              : "Systems engineer focused on networking, distributed infrastructure, and high-performance platforms"
+  location         : "San Francisco Bay Area, California"
   employer         : "NVIDIA"
   uri              : # URL
   email            : "anirudh.raj.iyengar@gmail.com"
@@ -52,7 +52,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "Anirudh-R-1201"
-  kaggle           :
+  kaggle           : "anirudhr1201"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
