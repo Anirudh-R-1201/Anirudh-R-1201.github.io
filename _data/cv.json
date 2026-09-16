@@ -1,152 +1,131 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Anirudh Rajagopalan",
+    "email": "anirudh.raj.iyengar@gmail.com",
+    "website": "https://anirudh-r-1201.github.io",
+    "summary": "Systems engineer working across software-defined networking, distributed infrastructure, security, and platforms for AI workloads.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "city": "San Francisco Bay Area",
       "countryCode": "US",
-      "region": ""
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "anirudhraj",
+        "url": "https://www.linkedin.com/in/anirudhraj"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Anirudh-R-1201",
+        "url": "https://github.com/Anirudh-R-1201"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "uN8XH3sAAAAJ",
+        "url": "https://scholar.google.co.in/citations?hl=en&user=uN8XH3sAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0005-8155-3153",
+        "url": "https://orcid.org/0009-0005-8155-3153"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "NVIDIA",
+      "position": "Engineer, Software-Defined Networking",
+      "startDate": "2026",
+      "endDate": "Present",
+      "summary": "Building software-defined networking systems for cloud infrastructure."
+    },
+    {
+      "name": "NVIDIA DGX Cloud",
+      "position": "Software Engineering Intern",
+      "startDate": "2025-05",
+      "endDate": "2025-08",
+      "summary": "Built Kubernetes networking and security infrastructure using OVN, OpenFlow, and nftables."
+    },
+    {
+      "name": "Oracle Cloud AI Services",
+      "position": "Software Engineer",
+      "startDate": "2022-06",
+      "endDate": "2024-07",
+      "summary": "Built and operated high-throughput, multi-tenant inference infrastructure."
+    },
+    {
+      "name": "Oracle Digital Assistant",
+      "position": "Software Engineering Intern",
+      "startDate": "2021-05",
+      "endDate": "2021-07",
+      "summary": "Built a cross-platform Flutter SDK and integrated multilingual language services."
+    },
+    {
+      "name": "Crayon Data",
+      "position": "Machine Learning Intern",
+      "startDate": "2020-06",
+      "endDate": "2020-10",
+      "summary": "Built and optimized an NLP pipeline for contextual key-phrase extraction."
+    },
+    {
+      "name": "RISE Lab, IIT Madras",
+      "position": "Research Intern",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Worked on data-intensive systems and applied machine-learning research."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Southern California",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2024",
+      "endDate": "2026",
+      "gpa": "3.96/4.0",
+      "courses": ["Advanced Operating Systems", "Advanced Computer Networking", "Data Center Networking", "Analysis of Algorithms", "Software Architecture", "Artificial Intelligence", "Machine Learning"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "National Institute of Technology Tiruchirappalli",
+      "area": "Computer Science and Engineering; minor in Management",
+      "studyType": "B.Tech.",
+      "startDate": "2018",
+      "endDate": "2022",
+      "gpa": "9.08/10.0",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {"name": "Networking", "keywords": ["SDN", "OVN", "OpenFlow", "nftables", "Kubernetes networking", "TCP/IP"]},
+    {"name": "Distributed systems", "keywords": ["gRPC", "fault tolerance", "scheduling", "asynchronous processing", "service discovery"]},
+    {"name": "Cloud infrastructure", "keywords": ["Kubernetes", "Docker", "Helm", "Terraform", "Jenkins", "GCP", "AWS", "OCI"]},
+    {"name": "Programming", "keywords": ["Go", "Python", "C++", "Java", "Bash", "SQL", "JavaScript", "TypeScript"]},
+    {"name": "AI systems", "keywords": ["PyTorch", "TensorFlow", "model serving", "NLP", "recommendation systems"]}
+  ],
+  "languages": [
+    {"language": "English", "fluency": "Native or bilingual"},
+    {"language": "Tamil", "fluency": "Native or bilingual"},
+    {"language": "Hindi", "fluency": "Professional working"},
+    {"language": "Japanese", "fluency": "Elementary"}
+  ],
+  "interests": [
+    {"name": "Sport", "keywords": ["Tennis", "Manchester United", "Football analytics"]}
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Zero Knowledge Bi-Party Computation Using Oblivious Transfers for Recommender Systems",
+      "publisher": "Research Square",
+      "releaseDate": "2023-08-07",
+      "website": "https://doi.org/10.21203/rs.3.rs-3228844/v4",
+      "summary": "A privacy-preserving recommendation protocol combining zero-knowledge proofs and oblivious transfer."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Football performance evaluation using Classification Models",
+      "publisher": "Research Square",
+      "releaseDate": "2023-07-06",
+      "website": "https://doi.org/10.21203/rs.3.rs-3172454/v2",
+      "summary": "A classification-based study of expected goals across World Cup and Champions League data."
     }
   ]
 }

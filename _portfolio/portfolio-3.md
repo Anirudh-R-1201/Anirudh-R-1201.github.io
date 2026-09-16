@@ -1,12 +1,15 @@
 ---
-title: "GenericCoin"
-excerpt: "A blockchain implementation exploring proof-of-work consensus and transaction integrity."
+title: "TinyStories"
+excerpt: "A compact language-model experiment built around GPT-Neo, TinyStories, and transparent evaluation."
 collection: portfolio
-permalink: /portfolio/generic-coin/
+permalink: /portfolio/tiny-stories/
+order: 3
+kicker: "AI Systems"
+technologies: [PyTorch, GPT-Neo, Weights & Biases]
 ---
 
-GenericCoin is a blockchain built from first principles to study the mechanics behind decentralized state.
+TinyStories explores language-model behavior at a scale where the full experiment remains understandable.
 
-The implementation covers block construction, proof-of-work mining, transaction verification, elliptic-curve signatures, and chain validation. Ganache and MetaMask were used to exercise transaction flows and inspect how state changes propagate through the system.
+The project uses GPT-Neo with the TinyStories dataset and tracks model behavior through reproducible notebooks and Weights & Biases dashboards. It keeps the AI work grounded in the surrounding system: data, inference, evaluation, and observability.
 
-[Repository](https://github.com/Anirudh-R-1201/GenericCoin)
+[Repository](https://github.com/Anirudh-R-1201/TinyStories)

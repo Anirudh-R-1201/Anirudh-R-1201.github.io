@@ -1,12 +1,15 @@
 ---
-title: "Privacy-Preserving Computation"
-excerpt: "A distributed protocol combining zero-knowledge proofs and oblivious transfer."
+title: "GenericCoin"
+excerpt: "A blockchain implementation exploring proof-of-work consensus and transaction integrity."
 collection: portfolio
-permalink: /portfolio/privacy-preserving-computation/
+permalink: /portfolio/generic-coin/
+order: 5
+kicker: "Distributed Systems"
+technologies: [Blockchain, Cryptography, JavaScript]
 ---
 
-This project explores how two parties can compute useful results without exposing their underlying private inputs.
+GenericCoin is a blockchain built from first principles to study the mechanics behind decentralized state.
 
-The protocol combines zero-knowledge proofs, oblivious transfer, fuzzy matching, and SimHash. A full-stack reference implementation demonstrates the message flow and trust boundaries in a practical recommendation workflow while keeping individual activity hidden from the service.
+The implementation covers block construction, proof-of-work mining, transaction verification, elliptic-curve signatures, and chain validation. Ganache and MetaMask were used to exercise transaction flows and inspect how state changes propagate through the system.
 
-[Paper](https://doi.org/10.21203/rs.3.rs-3228844/v4) · [Repository](https://github.com/ElzaCS/web-privacy)
+[Repository](https://github.com/Anirudh-R-1201/GenericCoin)

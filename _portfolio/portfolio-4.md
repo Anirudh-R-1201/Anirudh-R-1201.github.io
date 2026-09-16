@@ -1,12 +1,15 @@
 ---
-title: "SeqToPar"
-excerpt: "CUDA implementations of parallel algorithms with measured comparisons to sequential execution."
+title: "Expected Goals"
+excerpt: "A classification-driven study of football performance across World Cup and Champions League data."
 collection: portfolio
-permalink: /portfolio/seq-to-par/
+permalink: /portfolio/expected-goals/
+order: 4
+kicker: "Data & Modeling"
+technologies: [Python, Classification, Visualization]
 ---
 
-SeqToPar examines what changes when familiar sequential algorithms are redesigned for GPU execution.
+Expected goals estimates the probability that a scoring opportunity becomes a goal, creating a less noisy view of performance than match results alone.
 
-The project implements parallel selection and sorting workloads in CUDA, then compares execution time and scaling behavior across increasing input sizes. It explores memory access, synchronization, work partitioning, and the point at which parallel execution offsets transfer and coordination overhead.
+This work compares classification approaches over event data from the 2018 and 2022 FIFA World Cups and the 2018–2022 UEFA Champions League seasons. It studies how features, dataset composition, and model choice affect the output, then turns those results into interpretable team and player comparisons.
 
-[Repository](https://github.com/Anirudh-R-1201/SeqToPar)
+[Paper](https://doi.org/10.21203/rs.3.rs-3172454/v2) · [Repository](https://github.com/Anirudh-R-1201/Shot_xG)

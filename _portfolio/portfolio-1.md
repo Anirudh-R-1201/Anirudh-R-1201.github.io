@@ -3,6 +3,9 @@ title: "Scaler"
 excerpt: "A fault-tolerant distributed computing framework built with Go, Kubernetes, and gRPC."
 collection: portfolio
 permalink: /portfolio/scaler/
+order: 1
+kicker: "Distributed Systems"
+technologies: [Go, Kubernetes, gRPC]
 ---
 
 Scaler is a distributed task-execution framework designed around explicit coordination, failure recovery, and resource ownership.

@@ -1,35 +1,31 @@
 ---
-layout: archive
+layout: home
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Earlier work on privacy-preserving computation and statistical modeling. Citation records are available on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
-{% endif %}
+<section class="apple-section apple-page-hero">
+  <div class="apple-shell">
+    <p class="apple-kicker" data-reveal>Publications</p>
+    <h1 class="apple-section__title" data-reveal>Research at the boundary of systems and applied modeling.</h1>
+    <p class="apple-page-lead" data-reveal>Earlier work on private computation and football analytics—two different domains connected by the same instinct to make assumptions, mechanisms, and evidence explicit.</p>
 
-{% include base_path %}
+    <div class="apple-publication-grid">
+      {% assign publications = site.publications | sort: "date" | reverse %}
+      {% for post in publications %}
+        <a class="apple-publication" href="{{ post.paperurl | default: post.url }}" data-reveal>
+          <span class="apple-publication__meta">{{ post.venue }} · {{ post.date | date: "%Y" }}</span>
+          <h2>{{ post.title }}</h2>
+          <p>{{ post.excerpt | split: "<br" | first | strip_html }}</p>
+          <span class="apple-project__arrow" aria-hidden="true">&#8599;</span>
+        </a>
+      {% endfor %}
+    </div>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
+    <div class="apple-actions" data-reveal>
+      <a class="apple-button" href="https://scholar.google.co.in/citations?hl=en&user=uN8XH3sAAAAJ">Google Scholar <span aria-hidden="true">&#8599;</span></a>
+      <a class="apple-button" href="https://orcid.org/0009-0005-8155-3153">ORCID <span aria-hidden="true">&#8599;</span></a>
+    </div>
+  </div>
+</section>

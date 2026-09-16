@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -48,6 +48,11 @@ Working on software-defined networking systems for cloud infrastructure.
 * Built an ensemble NLP pipeline for extracting contextual key phrases from customer reviews.
 * Optimized the serving path for short-text requests and improved latency by 40%.
 
+### RISE Lab, IIT Madras — Chennai, India
+**Research Intern · 2019 -- 2020**
+
+Worked on early research and engineering projects spanning data-intensive systems and applied machine learning.
+
 Education
 ======
 
@@ -80,18 +85,13 @@ Selected Projects
 
 Fault-tolerant task execution across containerized workers, with scheduling, resource management, health tracking, and gRPC communication implemented in Go and deployed on Kubernetes.
 
-### Zero Barrier — Cloud Deployment Platform
-[Source](https://github.com/anirudh-r-1201/zero-barrier)
-
-Infrastructure automation for deploying containerized services, databases, and networking components on Google Cloud through reusable Terraform workflows.
-
 ### Zero-Knowledge Bi-Party Computation
 [Paper](https://doi.org/10.21203/rs.3.rs-3228844/v4) · [Source](https://github.com/ElzaCS/web-privacy)
 
 Privacy-preserving recommendation protocol combining zero-knowledge proofs, oblivious transfer, and SimHash, with a working distributed web implementation.
 
 ### Review-Based Recommendations
-[Source](https://github.com/Anirudh-R-1201/Review-Based-Recomendation-System)
+[Source](https://github.com/Anirudh-R-1201/Review-Based-Recommendation-System)
 
 Product-ranking system using review sentiment, nearest-neighbor similarity, and separate product- and user-based recommendation paths.
 
@@ -103,6 +103,15 @@ Leadership
 
 * Coordinated technical programs serving the university's student community and supported more than 30 technical clubs and initiatives.
 * Organized university-wide hackathons and programming competitions with more than 500 participants.
+
+### OnePlus Student Community — NIT Tiruchirappalli
+
+Represented OnePlus on campus as one of 25 students selected for its national student ambassador program.
+
+Languages
+======
+
+English and Tamil (native or bilingual), Hindi (professional working proficiency), and Japanese (elementary).
 
 Certifications
 ======

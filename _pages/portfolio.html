@@ -1,15 +1,31 @@
 ---
-layout: archive
-title: "Systems Projects"
+layout: home
+title: "Projects"
 permalink: /portfolio/
-author_profile: true
+author_profile: false
 ---
 
-{% include base_path %}
+<section class="apple-section apple-page-hero">
+  <div class="apple-shell">
+    <p class="apple-kicker" data-reveal>Projects</p>
+    <h1 class="apple-section__title" data-reveal>Ideas become useful when they survive contact with a real system.</h1>
+    <p class="apple-page-lead" data-reveal>Distributed execution, privacy-preserving protocols, model experiments, analytics, and infrastructure—selected work across the layers I like to understand by building.</p>
 
-These projects explore distributed coordination, infrastructure automation, parallel execution, consensus, and privacy-preserving protocols. Each one is an attempt to understand a systems idea by building it.
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+    <div class="apple-project-grid">
+      {% assign projects = site.portfolio | sort: "order" %}
+      {% for post in projects %}
+        <a class="apple-project" href="{{ post.url }}" data-reveal>
+          <span class="apple-project__meta">{{ post.kicker | default: "Project" }}</span>
+          <h2>{{ post.title }}</h2>
+          <p>{{ post.excerpt | strip_html }}</p>
+          {% if post.technologies %}
+            <div class="apple-chip-row">
+              {% for technology in post.technologies %}<span class="apple-chip">{{ technology }}</span>{% endfor %}
+            </div>
+          {% endif %}
+          <span class="apple-project__arrow" aria-hidden="true">&#8599;</span>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>

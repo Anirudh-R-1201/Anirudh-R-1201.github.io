@@ -1,12 +1,15 @@
 ---
-title: "Zero Barrier"
-excerpt: "Infrastructure automation for deploying multi-service applications on Google Cloud."
+title: "Privacy-Preserving Computation"
+excerpt: "A distributed recommendation protocol combining zero-knowledge proofs and oblivious transfer."
 collection: portfolio
-permalink: /portfolio/zero-barrier/
+permalink: /portfolio/privacy-preserving-computation/
+order: 2
+kicker: "Security & Privacy"
+technologies: [Cryptography, Distributed Systems, Web]
 ---
 
-Zero Barrier is an open-source deployment platform for turning an application topology into repeatable cloud infrastructure.
+This project asks how two parties can compute a useful result without exposing the private inputs that produced it.
 
-It coordinates Terraform workflows for compute, networking, databases, and containerized services on Google Cloud. The project focuses on dependency ordering, provider integration, state management, failure reporting, and making complex deployments reproducible instead of relying on one-off console operations.
+The protocol combines zero-knowledge proofs, oblivious transfer, fuzzy matching, and SimHash. A full-stack implementation makes the message flow and trust boundaries concrete in a recommendation workflow while keeping individual activity hidden from the service.
 
-[Repository](https://github.com/Anirudh-R-1201/Zero-Barrier)
+[Paper](https://doi.org/10.21203/rs.3.rs-3228844/v4) · [Repository](https://github.com/ElzaCS/web-privacy)
